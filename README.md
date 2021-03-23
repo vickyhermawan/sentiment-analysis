@@ -1,4 +1,3 @@
 # sentiment_analysis
-Sentiment analysis of twitter
+Sentiment analysis of twitter and word cloud
 :)
-Please word cloud :")
